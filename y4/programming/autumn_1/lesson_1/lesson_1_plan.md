@@ -21,12 +21,12 @@ The sequence of three lessons will teach nine-year-old students how to use `if-e
    - Introduce `if-else` blocks using a simple example on the projector (e.g., if a number is greater than 5, do one thing; else, do another).
 
 2. **Activity 1: Explore `If-Else` Blocks (10 minutes)**
-   - Demonstrate a [pre-made Scratch project]() that uses `if-else` blocks (e.g., a sprite changes its message based on its costume).
+   - Demonstrate a [pre-made Scratch project](if-else-demo.md) that uses `if-else` blocks (e.g., a sprite changes its message based on its costume).
    - During this teacher led demonstration the children are to be asked questions about it to check their understanding and logical reasoning skills
 
 3. **Activity 2: Plan Your Game (20 minutes)**
    - Explain the project: creating a game where hitting a sprite results in different outcomes based on its costume - think *whack-a-mole* where a sprite appears from a hole - could demonstrate how a costume could look like a hole i.e. a solid black circle.
-   - To help children with a basic idea - show a working example of [the basic whack-a-sprite game]() | do not show the code - just play it a few times.
+   - To help children with a basic idea - show a working example of [the basic whack-a-sprite game](https://scratch.mit.edu/projects/1040783102) | do not show the code - just play it a few times.
    - Distribute game planning worksheets - aka A3 paper - and have students outline their game, including at least two outcomes based on the sprite's costume.
    - Children work in pairs on this - encourage discussions which include key vocabulary.
 
