@@ -8,7 +8,7 @@ The sequence of three lessons will teach nine-year-old students how to use `if-e
 
 #### Objectives
 - Understand the concept of `if-else` blocks.
-- Begin creating a game where the player hits a sprite.
+- Begin planning a game where the player hits a sprite.
 
 #### Materials
 - Computers with Scratch installed or access to the Scratch website.
@@ -17,15 +17,16 @@ The sequence of three lessons will teach nine-year-old students how to use `if-e
 
 #### Lesson Outline
 1. **Introduction (10 minutes)**
-   - Briefly review `if` blocks.
+   - Briefly review `if` blocks | please see [example review activities](review_1.md)
    - Introduce `if-else` blocks using a simple example on the projector (e.g., if a number is greater than 5, do one thing; else, do another).
 
 2. **Activity 1: Explore `If-Else` Blocks (10 minutes)**
-   - Demonstrate a pre-made Scratch project that uses `if-else` blocks (e.g., a sprite changes its message based on its costume).
-   - During this teacher led demonstration the children are to be asked questions about it to check their understanding and logical reasoning skills | example questions include: What will happen to the sprite when it is wearing x? What will happen when it is wearing y? How do you know this - explain.
+   - Demonstrate a [pre-made Scratch project]() that uses `if-else` blocks (e.g., a sprite changes its message based on its costume).
+   - During this teacher led demonstration the children are to be asked questions about it to check their understanding and logical reasoning skills
 
 3. **Activity 2: Plan Your Game (20 minutes)**
    - Explain the project: creating a game where hitting a sprite results in different outcomes based on its costume - think *whack-a-mole* where a sprite appears from a hole - could demonstrate how a costume could look like a hole i.e. a solid black circle.
+   - To help children with a basic idea - show a working example of [the basic whack-a-sprite game]() | do not show the code - just play it a few times.
    - Distribute game planning worksheets - aka A3 paper - and have students outline their game, including at least two outcomes based on the sprite's costume.
    - Children work in pairs on this - encourage discussions which include key vocabulary.
 
