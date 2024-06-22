@@ -17,7 +17,7 @@ The sequence of three lessons will teach nine-year-old students how to use `if-e
 
 #### Lesson Outline
 1. **Introduction (10 minutes)**
-   - Briefly review `if` blocks | please see [example review activities](review_1.md)
+   - Briefly review `if` blocks | please see [example review activities](review-1.md)
    - Introduce `if-else` blocks using a simple example on the projector (e.g., if a number is greater than 5, do one thing; else, do another).
 
 2. **Activity 1: Explore `If-Else` Blocks (10 minutes)**
