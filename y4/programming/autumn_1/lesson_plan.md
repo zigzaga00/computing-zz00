@@ -36,7 +36,12 @@ The sequence of three lessons will teach nine-year-old students how to use `if-e
 5. **Wrap-Up: Back to `If-Else` Blocks (10 minutes)**
    - Students are reminded how `if-else` blocks can make their game plans work.
    - Students annotate their plans with `if-else` blocks if they have not already done so.
-  
+
+#### Differentiation
+- **Less Confident:** Assist with initial if-else block examples - focus on: Using the `Say` command | Including sound effects
+- **Average Ability:** Encourage students to think of creative game ideas and plan simple if-else conditions - they could focus on: Using the `Say` command | Including sound effects | Including a variable for example a `score` which *increments*
+- **More Confident:** Challenge students to add more complex outcomes and interactions - they could focus on: Including a variable for example a `score` which *increments* and *decrements* | adding more sprites and "holes" | using `random` numbers in their `wait` commands
+
 ---
 
 > the real danger is not that computers will begin to think like men, but that men will begin to think like computers | [Sydney J. Harris](https://en.wikipedia.org/wiki/Sydney_J._Harris)
