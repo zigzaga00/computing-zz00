@@ -10,11 +10,11 @@
 
 #### Lesson Outline
 1. **Introduction (10 minutes)**
-   - Review if-else blocks and how they work.
+   - Review if-else blocks and how they work | please see [review if-else activities](review-2.md)
    - Students look back over and briefly discuss their game plans.
 
 2. **Activity 1: Watch a Modelled Example (15 minutes)**
-   - Students watch a video which goes over a simple whack-a-sprite game.
+   - Students watch a live demo which goes over a simple whack-a-sprite game | if the teacher is not confident with this please use the mp4 video found on our shared drive 😃
    - Students get onto Scratch either locally or online - preference for online.
 
 3. **Activity 2: Hands-On Programming (30 minutes)**
