@@ -13,6 +13,7 @@
 1. **Introduction (15 minutes)**
    - Review if-else blocks | please see [review activities](review-3.md)
    - Watch a live demo of how to develop the simple project | if the teacher is not confident with this then the video in our shared area can be used 😃
+   - The developed project can be found @ [whack-a-sprite-developed](https://scratch.mit.edu/projects/1040792890)
 
 2. **Activity 1: Add More If-Else Blocks (30 minutes)**
    - Students implement additional if-else blocks to create more interactions (e.g., if the sprite is wearing costume A, wait X seconds before `next costume`; else, wait Y seconds before `next costume`).
