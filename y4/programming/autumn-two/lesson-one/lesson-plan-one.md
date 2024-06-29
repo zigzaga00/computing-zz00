@@ -14,7 +14,7 @@ This sequence of three lessons will guide students in developing a chatbot in Sc
 **Activities:**
 
 1. **Introduction and Review (10 minutes):**
-   - Review if blocks - see [example review activities](review/review.md)
+   - Review if blocks - see [example review activities](review.md)
    - Introduce the concept of chatbots and explain how they work.
    - Show a simple example of a chatbot and how it can respond to different inputs - ChatGPT is a good one.
 
