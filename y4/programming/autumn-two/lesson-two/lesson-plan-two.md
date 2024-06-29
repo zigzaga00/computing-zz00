@@ -28,6 +28,11 @@ This sequence of three lessons will guide students in developing a chatbot in Sc
 5. **Plenary (5 minutes):**
    - The children explain to another pair or child what they have added to their projects and why.
 
+**Differentiation:**
+- **Less Confident Programmers:** Work with them to ensure their independent if statements are correct before adding the final if-else block.
+- **Average Ability Programmers:** Encourage them to think of more varied questions and responses.
+- **More Confident Programmers:** Challenge them to make the chatbot more personal by including the users name | they will need to use the `join` block for this | let them know about it but then let them work out how to use it by themselves
+
 ---
 
 > the real danger is not that computers will begin to think like men, but that men will begin to think like computers | [Sydney J. Harris](https://en.wikipedia.org/wiki/Sydney_J._Harris)
