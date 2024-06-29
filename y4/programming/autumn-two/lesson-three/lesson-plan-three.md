@@ -9,7 +9,7 @@ This sequence of three lessons will guide students in developing a chatbot in Sc
 
 **Materials:**
 - Computers with Scratch installed
-- Example of [final chatbot]()
+- Example of [final chatbot](https://scratch.mit.edu/projects/1043346041/)
 - Scratch project from Lesson 2
 
 **Activities:**
