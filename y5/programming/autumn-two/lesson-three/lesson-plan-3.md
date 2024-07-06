@@ -17,6 +17,7 @@
 1. **Introduction and review (10 minutes):**
    - Review using a variable inside a loop to govern the loops termination | [review activities](review.md).
    - Introduce the concept of developing the game by sharing ideas | there is no need to solve these problems as the children will be doing this during the lesson | an example start point is provided in the video in the shared area as this will most probably be needed before the children can succeed at developing their projects 😃
+   - A bullet pointed list of development ideas which could be provided to the children once they start developing their projects is provided in [development ideas](development.md)
 
 2. **Activity (40 minutes):**
    - **All Students:**
