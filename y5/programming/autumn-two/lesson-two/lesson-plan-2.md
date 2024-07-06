@@ -20,11 +20,11 @@
 2. **Activity (40 minutes):**
    - **All Students:**
      - Demonstrate how to create a timer and score system | please use the video in the shared area if not confident 😃
-     - Students now create a timer variable and decrease it by 1 every second.
+     - Students now create a timer variable and decrement it by 1 every second.
        ```scratch
        when green flag clicked
        set [timer v] to 30
-       repeat until <(timer) = 0>
+       repeat until <(timer) < 1>
          change [timer v] by -1
          wait 1 second
        end
@@ -33,7 +33,7 @@
        ```scratch
        when green flag clicked
        set [timer v] to 30
-       repeat until <(timer) = 0>
+       repeat until <(timer) < 1>
          change [timer v] by -1
          wait 1 second
        end
@@ -43,7 +43,7 @@
      - **Less Confident Programmers:**
        - Provide screenshots for the timer.
      - **Average Ability Programmers:**
-       - Allow them to tweak the timer duration and or increments.
+       - Allow them to tweak the timer duration and or decrements.
      - **More Confident Programmers:**
        - Add more complex features such as having a way to increase time or decrease time | a special fish sprite or costume could be used which increases time and a poisonous sprite or costume could be used to decrease time more.
 
