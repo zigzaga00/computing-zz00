@@ -12,14 +12,15 @@
 
 **Lesson One:**
 
-1. **Introduction (20 minutes):**
+1. **Introduction and Review (20 minutes):**
+   - Review boolean logic and or using [example review activities](review.md)
    - Explain the game project | show a simple [example project](https://scratch.mit.edu/projects/1043382647/)
    - Introduce X and Y coordinates using a projector to show the Scratch stage.
    - Demonstrate how the X axis (horizontal) and Y axis (vertical) work.
    - Introduce the concept of cloning in Scratch.
    - If not confident with the above - please use the video in the shared area 😃
 
-2. **Activity (35 minutes):**
+3. **Activity (35 minutes):**
    - **All Students:**
      - Create a new Scratch project.
      - Add a cat sprite and use arrow keys to move it up and down using the Y coordinate.
@@ -55,7 +56,7 @@
      - **More Confident Programmers:**
        - Implement boundary checks to prevent the cat sprite from moving off the screen and add more complex movement patterns for the fish clones such as zig-zaging.
 
-3. **Review and Sharing (5 minutes):**
+4. **Review and Sharing (5 minutes):**
    - Discuss what was learned.
    - Allow a few students to share their progress.
 
