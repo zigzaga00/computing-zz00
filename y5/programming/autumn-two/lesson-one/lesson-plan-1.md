@@ -51,6 +51,11 @@
    - **Differentiation:**
      - **Less Confident Programmers:**
        - Focus on understanding basic movement and cloning with access to screenshots of how to implement the code.
+         ![1](images/1.png)
+         ![2](images/2.png)
+         ![3](images/3.png)
+
+         All the above images can be found in [images](images)
      - **Average Ability Programmers:**
        - Experiment with different movement steps to control fish clone speed | different y values for the cat | different clone intervals for fish | different costumes for clones of fish.
      - **More Confident Programmers:**
