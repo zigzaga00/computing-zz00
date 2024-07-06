@@ -5,6 +5,7 @@
 #### 1. Introduction and Review (10 minutes)
 - Review `broadcast message` and `when i receive message` using [review activities](review.md)
 - Explain the project for this first lesson: controlling a spaceship to collect items and pass through a portal to finish the game.
+- The basic project could be shown and quickly played through once or twice | [basic space-escape project](https://scratch.mit.edu/projects/1045375237)
 - Introduce the concept of OR logic using simple examples...
 ##### Boolean OR Logic:
 1. **Explanation**:
