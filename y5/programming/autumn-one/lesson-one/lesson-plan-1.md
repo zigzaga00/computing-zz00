@@ -41,6 +41,11 @@
 #### 4. Differentiation
 - **Less Confident Programmers**: 
   - Provide screenshots and focus on getting the `or` logic to work | the crystals could just stay in one place.
+    ![1](images/1.png)
+    ![2](images/2.png)
+    ![3](images/3.png)
+
+    the images can be found in [images](images)
 - **Average Programmers**: 
   - Encourage them to get the crystals to move to random positions.
 - **More Confident Programmers**: 
