@@ -8,7 +8,7 @@
 
 **Objective:** Students will add develop different responses based on fish costumes when the cat sprite touches the fish.
 
-**Materials Needed:** Projects from previous lessons | ideas for development of games.
+**Materials Needed:** Projects from previous lessons | ideas for development of games | possibly a link to the [developed game](https://scratch.mit.edu/projects/1045343400/)
 
 ---
 
