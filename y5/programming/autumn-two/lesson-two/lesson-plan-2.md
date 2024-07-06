@@ -41,11 +41,16 @@
        ```
    - **Differentiation:**
      - **Less Confident Programmers:**
-       - Provide screenshots for the timer.
+       - Provide screenshots for the score system and timer.
+         ![4](images/4.png)
+         ![5](images/5.png)
      - **Average Ability Programmers:**
        - Allow them to tweak the timer duration and or decrements.
      - **More Confident Programmers:**
        - Add more complex features such as having a way to increase time or decrease time | a special fish sprite or costume could be used which increases time and a poisonous sprite or costume could be used to decrease time more.
+         ![6](images/6.png)
+
+         The screenshots can be found in [images](images)
 
 4. **Review and Sharing (5 minutes):**
    - Share a project and discuss any challenges faced.
