@@ -13,9 +13,9 @@
 >[!NOTE]
 >Please use the demonstration video in our shared area if not feeling confident with this stage of the lesson :smiley:
 
-![obstacles]()
+![obstacles](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/autumn-one/lesson-two/images/1.png)
 
-![portal]()
+![portal](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/autumn-one/lesson-two/images/2.png)
 
 #### 3. Programming Time (35 minutes)
 - The children code their projects
