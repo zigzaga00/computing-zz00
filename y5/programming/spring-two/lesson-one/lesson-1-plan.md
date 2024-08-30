@@ -24,6 +24,8 @@ By the end of this three-lesson project, students will be able to create pattern
 >[!NOTE]
 >If the teacher prefers they can show the *introduction video* which is in our shared area 😃
 
+![square function example](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/spring-two/lesson-one/images/1.png)
+
 3. **Creating Basic Shapes Demonstration (10 minutes)**
    - Show students how to write their own functions to create basic shapes (e.g., squares, triangles, octagons).
    - Encourage students in this demonstration to experiment with loops to repeat shapes and create simple patterns.
