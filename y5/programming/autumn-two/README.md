@@ -2,7 +2,7 @@ resources to deliver the zz00 computing curriculum to y5 | programming strand | 
 
 ---
 
-# fish eating game | using a variable inside a loop to govern the loops termination
+# fish frenzy | using a variable inside a loop to govern the loops termination
 
 🐱 in this project the children will create a game in which a cat has to eat fish 🐱
 
