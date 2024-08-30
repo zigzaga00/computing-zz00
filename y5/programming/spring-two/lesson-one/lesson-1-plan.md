@@ -15,7 +15,7 @@ By the end of this three-lesson project, students will be able to create pattern
 **Activities:**
 
 1. **Review of Using Variables Inside a Loop to Govern its Termination (5 minutes)**
-   - The children work on an activity from the suggested [review activities](https://github.com/zig-zaga/zz/blob/main/y5/spring-2/programming/Shape-O-Rama%20%3A%20Pattern%20Party!/lesson-1/review-activities.md)
+   - The children work on an activity from the suggested [review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/spring-two/lesson-one/review-activities.md)
 
 2. **Introduction to Functions (10 minutes)**
    - Explain the concept of a function as a reusable piece of code.
