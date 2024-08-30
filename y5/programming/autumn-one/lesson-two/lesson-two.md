@@ -3,7 +3,7 @@
 **Objective**: Implement obstacle avoidance using `or` logic and make the first portal functional using `and` logic
 
 #### 1. Review and Introduction (10 minutes)
-- Review Boolean logic `and` and `or` using an activity from the [review activities]()
+- Review Boolean logic `and` and `or` using an activity from the [review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/autumn-one/lesson-two/review.md)
 - Introduce the new goal by playing through the [example project]() - avoid obstacles and use the portal to move the game on if a condition is met
 
 #### 2. Modeled Programming to Get Obstacles and Portal Working (10 minutes)
