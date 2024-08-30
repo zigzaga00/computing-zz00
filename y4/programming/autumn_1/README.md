@@ -2,7 +2,7 @@ resources to deliver the zz00 computing curriculum to y4 | programming strand | 
 
 ---
 
-# whack-a-sprite game | if-else blocks
+# sprite busters | if-else blocks
 
 🔨 in this project the children will create a game which is based around hitting a sprite to score points 🔨
 
