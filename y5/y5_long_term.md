@@ -37,11 +37,11 @@
 | Shape-O-Rama : Pattern Party!                       | using functions to create shapes and patterns                        | 
 | Scratch-a-Palooza : Create and Innovate!            | child led end of term project                                        |
 | Radio Data Relay                                    | using wireless and serial to transfer values from a data recording micro:bit to a desktop pc|
-| Titanic Time Travelers - Decoding Survival Secrets  | using *machine learning* to predict who would survive the titanic disaster                                                                                                                     |
+| Fair Trip Finder : Balancing the Travel Equation    | exploring the issue of *bias* in *machine learning* via a tourist recommender project|
 | The Gatekeeper                                      | using a distance sensor to power a motor to open and close a sliding gate|
 | Titanic Data Detectives - Who Made It?              | using excel to interogate and analyse real data from the titanic disaster to explore patterns in survivors|
+| Titanic Time Travelers - Decoding Survival Secrets  | using *machine learning* to predict who would survive the titanic disaster|
 | Scratch-a-Palooza : The Big Kahuna!                 | a child led *end of year* scratch project                            |
-| MicroBot Mashup - The Interactive Game Challenge!   | a child led project in which students create interactive games by combining micro:bits with lego wedo2|
 | Kindness Crusaders                                  | a multi-media project which explores kindness in our school community and beyond|
 
 Each unit is broken down into individual lessons within the half-term, focusing on building skills progressively.
