@@ -18,6 +18,8 @@
 >[!NOTE]
 >Please use the demonstration video in our shared area if not confident with step 2 😃
 
+![and logic](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/autumn-one/lesson-three/images/1.png)
+
 #### 3. Programming Time (35 minutes)
 - The children finish their projects
 
