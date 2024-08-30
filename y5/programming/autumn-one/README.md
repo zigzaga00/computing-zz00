@@ -2,7 +2,7 @@ resources to deliver the zz00 computing curriculum to y5 | programming strand | 
 
 ---
 
-# space escape game | using boolean logic | `or` `and`
+# space lander - galactic touchdown! | using boolean logic | `or` `and`
 
 🚀 in this project the children will create a game in which a spaceship must use a portal to return to its home planet before landing safely on the planet 🚀
 
@@ -72,7 +72,7 @@ Here is a list of key vocabulary that children will need to understand and succe
 21. **Portal**
     - An element in the game that transports the spaceship to another part of the stage or to a new backdrop.
 
-These vocabulary terms will help students understand the key concepts and instructions as they work on their Space Adventure projects.
+These vocabulary terms will help students understand the key concepts and instructions as they work on their Space Lander projects.
 
 ---
 
