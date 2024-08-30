@@ -14,7 +14,7 @@ By the end of this three-lesson project, students will be able to create pattern
 **Activities:**
 
 1. **Review of Interactivity and Demonstration of Ideas (10 minutes)**
-   - Review different ways users can interact with Scratch projects - please see [user interaction review activities](https://github.com/zig-zaga/zz/blob/main/y5/spring-2/programming/Shape-O-Rama%20%3A%20Pattern%20Party!/lesson-3/user-interaction-review.md).
+   - Review different ways users can interact with Scratch projects - please see [user interaction review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/spring-two/lesson-three/user-interaction-review.md).
    - Demonstrate some ideas for how users could interact with a pattern creating project - please use the *demonstration* video in our shared area if not confident with this :smiley:
 
 2. **Adding Interactivity (30 minutes)**
