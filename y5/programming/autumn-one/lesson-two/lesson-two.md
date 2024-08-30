@@ -2,11 +2,10 @@
 
 **Objective**: Implement obstacle avoidance using `or` logic and make the first portal functional using `and` logic
 
-#### 1. Review and Introduction (10 minutes)
+#### 1. Review (5 minutes)
 - Review Boolean logic `and` and `or` using an activity from the [review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/autumn-one/lesson-two/review.md)
-- Introduce the new goal by playing through the [example project]() - avoid obstacles and use the portal to move the game on if a condition is met
 
-#### 2. Modeled Programming to Get Obstacles and Portal Working (10 minutes)
+#### 2. Modeled Programming to Get Obstacles and Portal Working (20 minutes)
 - Add obstacle sprites to the project
 - Show how to make the spaceship bounce off the obstacles using `or` logic
 - Demonstrate how to use `and` logic along with a new backdrop to make the portal functional (e.g., spaceship can pass through if it has any amount of crystals of any colour)
@@ -18,7 +17,7 @@
 
 ![portal]()
 
-#### 3. Programming Time (40 minutes)
+#### 3. Programming Time (35 minutes)
 - The children code their projects
 
 #### 4. Differentiation
