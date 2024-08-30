@@ -14,7 +14,7 @@ By the end of this three-lesson project, students will be able to create pattern
 **Activities:**
 
 1. **Review and Introduction (15 minutes)**
-   - Review how to use functions along with why we use them - please see the [function review activities](https://github.com/zig-zaga/zz/blob/main/y5/spring-2/programming/Shape-O-Rama%20%3A%20Pattern%20Party!/lesson-two/function-review-activities.md)
+   - Review how to use functions along with why we use them - please see the [function review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/spring-two/lesson-two/function-review-activities.md)
    - Introduce the concept of combining functions to create more complex patterns - please use the *introduction* video in our shared area which shows this if not confident with it :smiley:
 
 2. **Pattern Creation Challenge (40 minutes)**
