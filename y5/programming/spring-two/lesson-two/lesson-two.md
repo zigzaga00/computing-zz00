@@ -17,6 +17,8 @@ By the end of this three-lesson project, students will be able to create pattern
    - Review how to use functions along with why we use them - please see the [function review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/spring-two/lesson-two/function-review-activities.md)
    - Introduce the concept of combining functions to create more complex patterns - please use the *introduction* video in our shared area which shows this if not confident with it :smiley:
 
+![patterns using functions](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/spring-two/lesson-two/images/2.png)
+
 2. **Pattern Creation Challenge (40 minutes)**
    - Show students how they can use their existing functions to create complex patterns by combining shapes - please use the *demonstration* video in our shared area if not confident with this and consider letting the *more confident* programmers independently watch the *extension* video instead of the *demonstration* one 👍
    - Students have a go at creating patterns - encourage students to explore different loop structures to see how they affect the overall pattern.
