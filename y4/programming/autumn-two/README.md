@@ -2,7 +2,7 @@ resources to deliver the zz00 computing curriculum to y4 | programming strand | 
 
 ---
 
-# chatbot project | sequence of independent if blocks followed by a final if-else block
+# animal guru | sequence of independent if blocks followed by a final if-else block
 
 🤖 in this project the children will create a chatbot which answers questions on a specific topic 🤖
 
