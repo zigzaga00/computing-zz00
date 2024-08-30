@@ -2,6 +2,9 @@
 
 **Objective**: Implement obstacle avoidance using `or` logic and make the first portal functional using `and` logic
 
+>[!NOTE]
+>An example of this developed versioin of this project can be found [here](https://scratch.mit.edu/projects/1061449770/)
+
 #### 1. Review (5 minutes)
 - Review Boolean logic `and` and `or` using an activity from the [review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y5/programming/autumn-one/lesson-two/review.md)
 
