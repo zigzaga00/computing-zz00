@@ -12,13 +12,13 @@ Students will create an animation on the micro:bit that can be controlled using 
 - Micro:bits (one per student or pair)
 - Computers or tablets with micro:bit programming environment (e.g., MakeCode)
 - Projector or screen for demonstrations
-
+- Use the [online editor](https://makecode.microbit.org/#editor)
 ---
 
 #### **Introduction (10 minutes)**
 
 1. **Review Previous Learning:**
-   - Briefly review how to use the led display to create animations using ideas from the [review activities]().
+   - Briefly review how to use the led display to create animations using ideas from the [review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y5/physical-computing/autumn-1/review-activities.md).
    - Introduce the new project, **Animate and Interact**, explaining that they will now add interactivity to their animations using buttons and shake inputs.
    - Highlight how programming interactivity into physical systems is essential for creating smart devices and innovations like those seen in the Internet of Things (IoT). Emphasize that interactivity allows devices to respond to user inputs and environmental changes, making technology more useful and engaging.
 
