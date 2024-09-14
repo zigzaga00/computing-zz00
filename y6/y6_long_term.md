@@ -3,7 +3,7 @@
 | Half-Term       | Focus Area                    | Units                                      |
 |-----------------|-------------------------------|--------------------------------------------|
 | Autumn 1        | Programming                   | Pattern Power - A Symphony of Shapes (Scratch)|
-|                 | Physical Computing            | Micro Music Jam (Micro:bit)                |
+|                 | Physical Computing            | Duelling Micros (Micro:bit)                |
 |                 | Creative Computing            | Green Screen Chronicles (Cameras, Photos, One Stop Studio, iMovie and GarageBand)|
 | Autumn 2        | Programming                   | Weather Wizards - The Python Edition (Python and Micro:bit)|
 |                 |                               | Scratch-a-Palooza : Create and Innovate! (Scratch)|
@@ -41,7 +41,6 @@
 | Web Detectives - Search Engine Sleuths              | exploring how search engines index websites and rank them            |
 | Pac Man Prodigy : An AI Ghost Gobbler!              | a *machine learning* project which trains a model how to play pac man based on human games|
 | Code-a-Palooza : The Big Boss!                      | a child led *end of year* project in which students can use any languages they want - micro:bits and Lego WeDo2 can be included if the children want to incorporate a physical component to their projects|
-|                                                     |                                                                      |
 | Express Yourself - A Mega Media Mashup!             | a child led multi-media project in which students use any apps they want|
 
 Each unit is broken down into individual lessons within the half-term, focusing on building skills progressively.
