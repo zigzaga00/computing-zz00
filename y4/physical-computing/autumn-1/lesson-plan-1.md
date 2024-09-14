@@ -2,6 +2,8 @@
 
 **Objective**: By the end of this lesson, students will create a simple animation using the LED display on the micro:bit, customize it with their own ideas, and refine the animation for smooth transitions.
 
+The online coding is to be developed using the [makecode editor](https://makecode.microbit.org/#editor)
+
 ---
 
 ### **Lesson Outline**
