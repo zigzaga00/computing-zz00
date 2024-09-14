@@ -85,3 +85,7 @@ Here’s a vocabulary list with key terms and definitions for the **Pixel Party*
 - **Custom**: “You can make custom animations based on your own ideas.”
 
 These terms and their definitions will help children understand and discuss their project more effectively, ensuring they grasp the fundamental concepts needed for creating their animations.
+
+---
+
+>students who learn to program physical systems are not just learning to code | they are preparing to influence the future of technology and shape the smart world of tomorrow
