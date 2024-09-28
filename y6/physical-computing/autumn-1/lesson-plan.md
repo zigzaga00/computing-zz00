@@ -18,11 +18,15 @@
   - Briefly recap the use of micro:bit’s radio feature. Explain how each micro:bit can send and receive messages.
   - Demonstrate how a button press on one micro:bit can trigger an event on another micro:bit.
   - An activity from the [radio review activities](https://github.com/zigzaga00/computing-zz00/blob/main/y6/physical-computing/autumn-1/radio-review.md) could be used.
-
 - **Explain the Duelling Micros Idea:**
   - Introduce the idea of a call-and-response game, where each child controls what happens on their partner's micro:bit by pressing buttons | this can be demonstrated with simple call and response claps from the teacher to the class.
   - Explain the concept of three button inputs: Button A, Button B, and A+B.
   - When one child presses a button, it will send a message to their partner’s micro:bit, which will play a corresponding note | the children are sending a musical phrase which their partner hears on their own micro before responding back with their own phrase.
+
+>[!NOTE]
+>Introduce Vocabulary in the Introduction
+  - **Packet:** Describe how data is sent in small chunks called packets, allowing for efficient communication - refer back to how the internet works.
+  - **Radio Frequency:** Introduce the idea that micro:bits use specific radio frequencies to send and receive these packets - light wavelength could be used as an analogy here.
 
 #### **2. Main Activity (45 minutes)**
 
@@ -69,9 +73,9 @@
 ![image_3](images/3.png)
 
 #### **4. Conclusion (5 minutes)**
-- **Group Discussion:**
-  - Let pairs demonstrate their call-and-response music.
-  - Discuss what worked well, how timing affected the sound, and how they coordinated with their partner.
+- **Discussion Points:**
+  - Highlight how the micro:bits are a part of a **system** that includes both hardware (the micro:bit devices) and software (the code written in MakeCode).
+  - Discuss how the interaction between the micro:bits exemplifies a **communication protocol**, which governs how they send and interpret messages.
 
 ---
 
