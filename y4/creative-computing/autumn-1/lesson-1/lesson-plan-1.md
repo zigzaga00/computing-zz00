@@ -63,4 +63,4 @@ To create the initial frames for a stop-motion animation featuring Mr Zog using 
 
 ---
 
-> a computer is simply an intrument whose music is ideas | alan key
+> a computer is simply an intrument whose music is ideas | alan kay
