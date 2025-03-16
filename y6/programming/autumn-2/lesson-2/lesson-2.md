@@ -76,6 +76,10 @@ while True:
 - Try **using button A** to show only temperature and **button B** to show light level.
 - Watch the extension video in the shared area to better understand what is happening under the hood
 
+Example code:
+
+![ww1](images/1.png)
+
 ---
 
 ### **5️⃣ Wrap-Up & Reflection (10 Minutes)**  
